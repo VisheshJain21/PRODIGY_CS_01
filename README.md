@@ -5,8 +5,11 @@ PRODIGY_CS_01 is a project focused on Creating a Python program that can encrypt
 
 Features
 Feature 1: Encryption
+
 Feature 2: Decryption
+
 Feature 3: Quit or to Exit
+
 Installation
 To install and run this project locally, follow these steps:
 
